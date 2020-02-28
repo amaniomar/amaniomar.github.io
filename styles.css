@@ -4,6 +4,7 @@ body{
     height: 100vh;
     background-repeat: no-repeat;
     height: 100%;
+    height: cover;
     background-attachment: fixed;
     font-family: 'Press Start 2P', ;
 
