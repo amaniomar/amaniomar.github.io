@@ -2,7 +2,7 @@ body {
   font-family: "Press Start 2P", cursive;
   margin: 0;
   font-size: 23px;
-  border: 2px solid #000000;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 .bg {
